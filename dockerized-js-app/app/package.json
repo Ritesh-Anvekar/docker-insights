@@ -1,0 +1,14 @@
+{
+  "name": "dockerized-js-app",
+  "version": "1.0.0",
+  "description": "dockerized java script application with mongo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.3"
+  }
+}
